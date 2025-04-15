@@ -1,0 +1,9 @@
+gradio
+git+https://www.github.com/openai/whisper.git
+ffmpeg
+pysrt pandas transformers nltk spacy feel-it textblob vaderSentiment pysentimiento matplotlib nltk wordcloud streamlit bertopic keybert
+spacy download en_core_web_sm
+flask_cors
+FPDF
+pyngrok
+nltk
